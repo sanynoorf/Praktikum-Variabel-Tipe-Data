@@ -145,17 +145,11 @@ print("HASIL SETELAH DI TAMBAHKAN :",oprator_bagi_kurang + oprator_bagi_sisabagi
 # <h1>Analyze Here</h1>
 # .....
 
-# In[14]:
+# In[1]:
 
 
 #Code here
 huruf = str("UFLOPYXTKJACSWRBGQZVDMEHIN")
-nama = "ARULMAULANASIDIK"
-print(huruf[10]+huruf[14]+huruf[0]+huruf[2]+huruf[21]+huruf[10]+huruf[0]+huruf[2]+huruf[10]+huruf[25]+huruf[10]+huruf[12]+huruf[24]+huruf[20]+huruf[24]+huruf[8])
-
-
-# In[ ]:
-
-
-
+nama = "SANYNOOR"
+print(huruf[12]+huruf[10]+huruf[25]+huruf[5]+huruf[25]+huruf[3]+huruf[3]+huruf[14])
 
